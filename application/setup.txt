@@ -1,0 +1,1 @@
+All applcation code must be made within this directory.
